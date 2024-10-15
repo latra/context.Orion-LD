@@ -1,5 +1,3 @@
-version: "3" 
-
 services:
   orion:
     image: telefonicaiot/fiware-orion
